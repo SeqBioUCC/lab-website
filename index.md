@@ -11,7 +11,7 @@ Welcome to our research team and lab at the forefront of transformative research
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+SeqBio team invited for oral and poster presentations at Noguchi Memorial Institute of Medical Research, Annual Reaesrach Meeting conference 2023 November 22-24 2023 
 
 {%
   include button.html
