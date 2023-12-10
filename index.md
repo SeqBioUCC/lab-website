@@ -3,7 +3,7 @@
 
 # SeqBioUCC's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to our research team and lab at the forefront of transformative research in One Health and Genomic Epidemiology. At the forefront of our research, we decode the genomic signatures of pathogenic bacteria, particularly addressing the global challenge of antimicrobial resistance (AMR), unraveling the intricate dance between microbes and human, animal, and environmental health, decoding the genomic signatures of pathogenic bacteria. With a primary focus on tackling antimicrobial resistance (AMR), we leverage on state-of-the-art genomic tools to inform innovative strategies, ensuring a holistic approach to safeguarding global health. With a dedication to public health interventions, we strive to forge a healthier future by understanding, predicting, and mitigating the complex interplay between pathogens, hosts, and the environment.
 
 {% include section.html %}
 
