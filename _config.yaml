@@ -1,18 +1,18 @@
 # site properties and page defaults
 title: SeqBioUCC
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+subtitle: Bacterial Genomics Laboratory 
+description: Welcome to our research team and lab at the forefront of transformative research in One Health and Genomic Epidemiology. At the forefront of our research, we decode the genomic signatures of pathogenic bacteria, particularly addressing the global challenge of antimicrobial resistance (AMR), unraveling the intricate dance between microbes and human, animal, and environmental health, decoding the genomic signatures of pathogenic bacteria. With a primary focus on tackling antimicrobial resistance (AMR), we leverage on state-of-the-art genomic tools to inform innovative strategies, ensuring a holistic approach to safeguarding global health. With a dedication to public health interventions, we strive to forge a healthier future by understanding, predicting, and mitigating the complex interplay between pathogens, hosts, and the environment.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@SeqBioUCC.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: seqbioucc@gmail.com
+  orcid: 
+  google-scholar: 
   github: SeqBioUCC
-  twitter: SeqBioUCC
-  youtube: SeqBioUCC
+  twitter: GSequencing
+  youtube: 
 
 ### jekyll settings
 
