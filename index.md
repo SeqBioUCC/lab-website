@@ -11,8 +11,8 @@ Welcome to our research team and lab at the forefront of transformative research
 
 {% capture text %}
 
-SeqBio team invited for oral and poster presentations at Noguchi Memorial Institute of Medical Research, Annual Reaesrach Meeting conference 2023 November 22-24 2023 
 
+| 2023/11/24 | : 🎙 SeqBio team invited for oral and poster presentations at, Annual Reaesrach Meeting conference 2023   - "“Strengthening Research Capacity to mitigate current and future Disease Threats: Bridging the Research and Policy Divide" at [Noguchi Memorial Institute of Medical Research](https://twitter.com/NMIMR_UG/status/1725012244495225046) November 22-24 2023. | 
 {%
   include button.html
   link="research"
@@ -82,4 +82,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-| 2023/11/24 | : 🎙 SeqBio team invited for oral and poster presentations at, Annual Reaesrach Meeting conference 2023   - "“Strengthening Research Capacity to mitigate current and future Disease Threats: Bridging the Research and Policy Divide" at [Noguchi Memorial Institute of Medical Research](https://twitter.com/NMIMR_UG/status/1725012244495225046) November 22-24 2023. | 
+
