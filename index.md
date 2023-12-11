@@ -1,7 +1,7 @@
 ---
 ---
 
-# SeqBioUCC's Website
+# SeqBioUCC
 
 Welcome to our research team and lab at the forefront of transformative research in One Health and Genomic Epidemiology. At the forefront of our research, we decode the genomic signatures of pathogenic bacteria, particularly addressing the global challenge of antimicrobial resistance (AMR), unraveling the intricate dance between microbes and human, animal, and environmental health, decoding the genomic signatures of pathogenic bacteria. With a primary focus on tackling antimicrobial resistance (AMR), we leverage on state-of-the-art genomic tools to inform innovative strategies, ensuring a holistic approach to safeguarding global health. With a dedication to public health interventions, we strive to forge a healthier future by understanding, predicting, and mitigating the complex interplay between pathogens, hosts, and the environment.
 
@@ -10,9 +10,7 @@ Welcome to our research team and lab at the forefront of transformative research
 ## Highlights
 
 {% capture text %}
-
-
-| 2023/11/24 | : 🎙 SeqBio team invited for oral and poster presentations at, Annual Reaesrach Meeting conference 2023   - "“Strengthening Research Capacity to mitigate current and future Disease Threats: Bridging the Research and Policy Divide" at [Noguchi Memorial Institute of Medical Research](https://twitter.com/NMIMR_UG/status/1725012244495225046) November 22-24 2023. | 
+| 2023/11/24 |: 🎙SeqBio team invited for oral and poster presentations at the Annual Research Meeting conference 2023  - "Strengthening Research Capacity to mitigate current and Future Disease Threats: Bridging the Research and Policy Divide" at [Noguchi Memorial Institute of Medical Research](https://twitter.com/NMIMR_UG/status/1725012244495225046) November 22-24 2023. | 
 {%
   include button.html
   link="research"
@@ -74,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="seqbio.jpg"
   link="team"
   title="Our Team"
   text=text
