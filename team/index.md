@@ -10,10 +10,6 @@ nav:
 
 {% include section.html %}
 
-<!-- Director -->
-{% include list.html data="members" component="portrait" filters="role: director" %}
-{% include section.html %}
-
 <!-- PhD Students -->
 {% include list.html data="members" component="portrait" filters="role: phd-*" %}
 
