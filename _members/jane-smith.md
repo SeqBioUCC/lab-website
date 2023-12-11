@@ -1,5 +1,5 @@
 ---
-name: Richael Odarkor Mills
+name: Richael Odarkor Mills (PhD)
 image: images/richael.jpg
 role: pi
 aliases:
