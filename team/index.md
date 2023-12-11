@@ -4,6 +4,18 @@ nav:
   order: 1
   tooltip: About our team
 ---
+# {% include icon.html icon="fa-solid fa-users" %}Team
+{:.center}
+
+Lorem ipsum dolor sit amet
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
 
 # Core Team
 {:.center}
@@ -21,17 +33,6 @@ nav:
 {% include section.html %}
 
 
-
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
-Lorem ipsum dolor sit amet
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing 
 
@@ -63,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing
 ![image]({{ "/images/socials/CEP-2023.12.08/cep-board.png" | relative_url }})
 
 ![image]({{ "/images/socials/BMI_party-2023.12.07/tv.jpg" | relative_url }})
+
 {% endcapture %}
-{% include grid.html content=content %}
 
 {% include grid.html style="square" content=content %}
