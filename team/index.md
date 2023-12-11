@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 1
+  order: 15
   tooltip: About our team
 ---
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -17,10 +17,6 @@ Lorem ipsum dolor sit amet
 {% include section.html background="images/background.jpg" dark=true %}
 
 
-# Core Team
-{:.center}
-
-{% include section.html %}
 
 <!-- PhD Students -->
 {% include list.html data="members" component="portrait" filters="role: phd-*" %}
