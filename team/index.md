@@ -12,22 +12,22 @@ Our Team is made up of vibrant young researchers with expertise in microbiology,
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
 <!-- Research Fellows -->
-{% include list.html data="members" component="portrait" filters="role: Research Fellow-*" %}
-
+{% include list.html data="members" component="portrait" filters="role: Research Fellow" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
 <!-- Research Assistants -->
-{% include list.html data="members" component="portrait" filters="role: Research Assistant-*" %}
+{% include list.html data="members" component="portrait" filters="role: Research Assistant" %}
 
 
 
 <!-- Research Trainees -->
-{% include list.html data="members" component="portrait" filters="role: Research Trainee-*" %}
+{% include list.html data="members" component="portrait" filters="role: Research Trainee" %}
 {% include section.html %}
-
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing 
