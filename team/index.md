@@ -7,7 +7,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Core Team
 {:.center}
 
-Our Team is made up of vibrant young researchers with expertise in Microbiology, Bioinformatics, genomics, Next-Generation Sequencing
+Our Team is made up of vibrant young researchers with expertise in microbiology, bioinformatics, pathogen genomics, next-generation sequencing and public health engagement
 
 {% include section.html %}
 
