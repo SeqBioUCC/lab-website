@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 20
+  order: 2
   tooltip: About our team
 ---
 # {% include icon.html icon="fa-solid fa-users" %}Core Team
 {:.center}
 
-Our Team is made up of vibrant young reseachers with expertise in Microbiology, Bioinformatics, genomics, Next-Generation Sequencing
+Our Team is made up of vibrant young researchers with expertise in Microbiology, Bioinformatics, genomics, Next-Generation Sequencing
 
 {% include section.html %}
 
