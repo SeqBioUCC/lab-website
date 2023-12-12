@@ -4,7 +4,7 @@ image: images/Humphrey.jpg
 description: 
 role: Research Assistant
 links: https://www.researchgate.net/profile/Humphrey-Precious-Addy
-  email: addy.p.humphrey@gmail.com
+  email: addy.p.humphrey'AT'gmail.com
   twitter: humphrey_addy
 ---
 
