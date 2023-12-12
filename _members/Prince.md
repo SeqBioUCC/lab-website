@@ -1,6 +1,6 @@
 ---
-name: 
-image: images/photo.jpg
+name: Prince Sedem Semanshia
+image: images/Prince.jpg
 description: 
 role: Research Assistant
 links:
