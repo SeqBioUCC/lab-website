@@ -2,7 +2,7 @@
 name: Elvis Fiam Amegayibor
 image: images/Elvis.jpg
 role: Research Assistant
-aliases:
+description: Research Assistant
 
 links:
   home-page:
