@@ -1,7 +1,7 @@
 ---
 name: Jennifer Morgan
 image: images/Jennifer.jpg
-description: 
+description: Research Assistant
 role: Research Assistant
 links:
   email: 
