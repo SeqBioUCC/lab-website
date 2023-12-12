@@ -1,6 +1,6 @@
 ---
-name: 
-image: images/photo.jpg
+name: Jennifer Morgan
+image: images/Jennifer.jpg
 description: 
 role: Research Assistant
 links:
