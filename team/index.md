@@ -6,14 +6,14 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-users" %}Core Team
 {:.center}
+{% include section.html %}
 
 Our Team is made up of vibrant young researchers with expertise in microbiology, bioinformatics, pathogen genomics, next-generation sequencing and public health engagement
 
 
-
+<!-- PIs -->
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include section.html %}
 
 
 <!-- Research Fellows -->
