@@ -1,6 +1,6 @@
 ---
-name: 
-image: images/photo.jpg
+name: Abraham Mensah
+image: images/Abraham.jpg
 description: 
 role: Research Assistant
 links:
