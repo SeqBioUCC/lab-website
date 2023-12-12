@@ -1,6 +1,6 @@
 ---
 name: Prof. Isaac Dadzie
-image: images/photo.jpg
+image: images/prof.jpg
 role: pi
 group: Pi
 links:
