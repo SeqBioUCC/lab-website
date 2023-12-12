@@ -1,8 +1,8 @@
 ---
 name: Irene Esi Donkoh
 image: images/Irene.jpg
-role: Research Assitant
-aliases:
+description: Research Assistant
+role: Research Assistant
 
 links:
   home-page: 
