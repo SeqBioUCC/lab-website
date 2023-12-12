@@ -557,19 +557,19 @@
     
       
         <a
-          href="/lab-website/research/"
-          data-tooltip="Published works"
+          href="/lab-website/team/"
+          data-tooltip="About our team"
         >
-          Research
+          Team
         </a>
       
     
       
         <a
-          href="/lab-website/team/"
-          data-tooltip="About our team"
+          href="/lab-website/research/"
+          data-tooltip="Published works"
         >
-          Team
+          Research
         </a>
       
     
