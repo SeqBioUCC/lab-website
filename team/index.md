@@ -4,8 +4,9 @@ nav:
   order: 1
   tooltip: About our team
 ---
-# {% include icon.html icon="fa-solid fa-users" %}Core Team
+# Core Team
 {:.center}
+
 {% include section.html %}
 
 Our Team is made up of vibrant young researchers with expertise in microbiology, bioinformatics, pathogen genomics, next-generation sequencing and public health engagement
