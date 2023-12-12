@@ -2,7 +2,8 @@
 name: Elvis Quansah
 image: images/ElvisQ.jpg
 role: Research Fellow
-aliases:
+description: Research Fellow
+
 
 links:
   home-page: 
