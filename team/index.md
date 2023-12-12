@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 1
+  order: 20
   tooltip: About our team
 ---
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Core Team
 {:.center}
 
-Lorem ipsum dolor sit amet
+Our Team is made up of vibrant young reseachers with expertise in Microbiology, Bioinformatics, genomics, Next-Generation Sequencing
 
 {% include section.html %}
 
@@ -16,16 +16,16 @@ Lorem ipsum dolor sit amet
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+<!-- Research Fellows -->
+{% include list.html data="members" component="portrait" filters="role: Research Fellow-*" %}
+
+<!-- Research Assistants -->
+{% include list.html data="members" component="portrait" filters="role: Research Assistant-*" %}
 
 
-<!-- PhD Students -->
-{% include list.html data="members" component="portrait" filters="role: phd-*" %}
 
-<!-- MS Students -->
-{% include list.html data="members" component="portrait" filters="role: masters-*" %}
-
-<!-- Undergrad students -->
-{% include list.html data="members" component="portrait" filters="role: undergrad-*" %}
+<!-- Research Trainees -->
+{% include list.html data="members" component="portrait" filters="role: Research Trainee-*" %}
 {% include section.html %}
 
 
