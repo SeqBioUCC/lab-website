@@ -2,7 +2,8 @@
 name: Samuel Addo Akwetey
 image: images/Sammy.jpg
 role: Research Fellow
-aliases:
+description: Research Fellow
+
 
 links:
   home-page: 
