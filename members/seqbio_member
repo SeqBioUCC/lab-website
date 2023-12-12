@@ -566,6 +566,15 @@
     
       
         <a
+          href="/lab-website/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
           href="/lab-website/projects/"
           data-tooltip="Software, datasets, and more"
         >
@@ -588,15 +597,6 @@
           data-tooltip="Email, address, and location"
         >
           Contact
-        </a>
-      
-    
-      
-        <a
-          href="/lab-website/team/"
-          data-tooltip="About our team"
-        >
-          Team
         </a>
       
     
