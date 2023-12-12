@@ -1,7 +1,7 @@
 ---
 name: Prince Sedem Semanshia
 image: images/Prince.jpg
-description: 
+description: Research Assistant
 role: Research Assistant
 links:
   email: 
