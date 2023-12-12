@@ -14,7 +14,7 @@ Our Team is made up of vibrant young researchers with expertise in microbiology,
 
 <!-- PIs -->
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+
 
 
 <!-- Research Fellows -->
