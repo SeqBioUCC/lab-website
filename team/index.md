@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 2
+  order: 1
   tooltip: About our team
 ---
 # {% include icon.html icon="fa-solid fa-users" %}Core Team
@@ -9,17 +9,17 @@ nav:
 
 Our Team is made up of vibrant young researchers with expertise in microbiology, bioinformatics, pathogen genomics, next-generation sequencing and public health engagement
 
+
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-
-
-{% include section.html background="images/background.jpg" dark=true %}
 
 <!-- Research Fellows -->
 {% include list.html data="members" component="portrait" filters="role: Research Fellow" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
 <!-- Research Assistants -->
 {% include list.html data="members" component="portrait" filters="role: Research Assistant" %}
 
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing
 {% include figure.html image="images/photo.jpg" %}
 {% endcapture %}
 
-
+{% include section.html background="images/background.jpg" dark=true %}
 
 <!-- Social Photo -->
 ## Team Gathering
