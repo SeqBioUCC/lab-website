@@ -1,5 +1,5 @@
 ---
-name: Elvis Quansah, PhD
+name: Elvis Quansah
 image: images/ElvisQ.jpg
 role: Research Fellow
 description: Research Fellow
